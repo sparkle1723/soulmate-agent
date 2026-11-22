@@ -66,7 +66,7 @@
 
 ```bash
 # 1. 下载本仓库
-git clone https://github.com/<your-name>/soulmate-agent.git
+git clone https://github.com/sparkle1723/soulmate-agent.git
 
 # 2. 把 templates/AgentMemory 复制到固定位置，例如 D:\AgentMemory
 # 3. 把 templates/my-agent 复制到你的 Agent 平台插件目录，按注释修改名字和路径
@@ -119,8 +119,8 @@ soulmate-agent/
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#<your-name>/soulmate-agent&Date">
-  <img src="https://api.star-history.com/svg?repos=<your-name>/soulmate-agent&type=Date" alt="Star History Chart" width="600"/>
+<a href="https://star-history.com/#sparkle1723/soulmate-agent&Date">
+  <img src="https://api.star-history.com/svg?repos=sparkle1723/soulmate-agent&type=Date" alt="Star History Chart" width="600"/>
 </a>
 
 ---
