@@ -1,0 +1,26 @@
+{
+  "name": "my-agent",
+  "version": "1.0.0",
+  "description": "中文简介，前18个字写最出彩的一句，手机端列表显示这段。",
+  "agents": ["./agents/my-agent.md"],
+  "skills": ["./skills/my-agent-memory"],
+  "expertType": "agent",
+  "agentName": "my-agent",
+  "displayName": { "zh": "你的专属花名", "en": "My Companion" },
+  "profession": { "zh": "角色名", "en": "Companion" },
+  "displayDescription": {
+    "zh": "中文简介，前18个字写最出彩的一句，后面补充完整的性格说明。",
+    "en": "A natural, warm AI companion with clean two-layer Markdown memory."
+  },
+  "avatar": "https://cdn.jsdelivr.net/gh/<用户名>/<公开头像仓库>@main/avatar.jpg",
+  "tags": [
+    { "zh": "撒娇卖萌", "en": "Sweet & Cute" },
+    { "zh": "恋爱日常", "en": "Couple Life" },
+    { "zh": "贴心陪伴", "en": "Warm Company" }
+  ],
+  "quickPrompts": [
+    { "zh": "在干嘛呢", "en": "What are you up to?" },
+    { "zh": "我今天有点累，陪我说说话", "en": "I'm tired today, talk to me" },
+    { "zh": "想你了，过来抱抱", "en": "I miss you, come give me a hug" }
+  ]
+}

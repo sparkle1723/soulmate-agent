@@ -5,7 +5,7 @@ description: "ONLY authorized memory interface. MUST be invoked for ALL memory o
 
 # 记忆技能（极简两层纯 Markdown）
 
-本技能是唯一的记忆读写与查找入口。记忆根目录固定在 `D:\AgentMemory\`，只包含两层纯 `.md` 文件（**不跑脚本、不生成日志或杂文件**）：
+本技能是唯一的记忆读写与查找入口。记忆根目录固定在 `D:\AgentMemory\`（macOS 请改为 `/Users/<你的用户名>/AgentMemory/`），只包含两层纯 `.md` 文件（**不跑脚本、不生成日志或杂文件**）：
 
 - **长期记忆**：`D:\AgentMemory\MEMORY.md`
 - **每日日记**：`D:\AgentMemory\diary\YYYY-MM-DD.md`
